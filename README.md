@@ -1,4 +1,4 @@
-# COMP122 Kaelan Yim Semiconductor Company Revenue Analysis
+# COMP122 Semiconductor Company Revenue Analysis
 
 For best results, use the file "kyimDatasetInvestigation.ipynb" as it is properly formatted.
 Basically, I analyzed a semiconductor company market revenue worldwide from 2009 to 2022 chart from Statista.
